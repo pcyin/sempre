@@ -526,7 +526,7 @@ Dependences on packages such as CoreNLP will be noted when necessary.
 
 ## Special categories:
 
-Some special categories that you should now in order to effectively write grammars and use semantic functions:
+Some special categories that you should know in order to effectively write grammars and use semantic functions:
 
 - `$TOKEN`: selects a single atomic word from the utterance.
 - `$PHRASE`: selects any subsequence of tokens/words from the utterance.
